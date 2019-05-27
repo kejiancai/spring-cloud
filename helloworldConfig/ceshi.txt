@@ -3,7 +3,6 @@ ceshi  commit
 测试branch2补丁
 
 
-用于提交branch1的内容，branch2不存在该内容
 
 
 提交branch1补丁，用于修复branch1和branch2的bug。
